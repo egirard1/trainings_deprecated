@@ -6,16 +6,22 @@ List of online bioinformatics trainings
 
 The bioinformatics platform of the Institut Curie provides here a list of free bioinformatics trainings available online, for beginners to advanced users. The content of these training materials was not created by the platform itself and remains the property of their owner. You can contact them directly if you have questions or contact us at bioinfo.formation@curie.fr.
 
+---
+
 ### Outline
 - Selected contents for 
-	- [Beginner level](#for-beginners)  
-	- [Advanced level](#for-advanced-users)  
+	- [Beginners](#for-beginners)  
+	- [Advanced users](#for-advanced-users)  
 - [Ressources](#ressources)  
+- [Cheatsheets](#cheatsheets)  
 - [Youtube channels](#youtube-channels)  
 - Misceallenous
 	- [Blogs](#blogs)  
 	- [Apps](#apps)  
+	- [Random](#random)  
 
+
+---
 
 <!-- ### Institut Curie  -->
 
@@ -24,17 +30,32 @@ The bioinformatics platform of the Institut Curie provides here a list of free b
 ### Selected contents
 
 #### For beginners
-- R
-- Python
-- Unix
-- NGS data analysis
+- [R](https://data-flair.training/blogs/rstudio-tutorial/)
+- [Python](https://www.youtube.com/watch?v=rfscVS0vtbw&t=2446s)
+- [NGS data analysis](https://www.youtube.com/watch?v=l4BAfRekohk&list=PLTt9kKfqE_0Gem8hIcJEn7YcesuuKdt_n&index=5&t=9s)
+- [Deep learning in 5 minutes](https://www.youtube.com/watch?v=6M5VXKLf4D4)
+- Reproducibility
+	- [A gentle introduction to the version control system, **GIT**](https://www.growingwiththeweb.com/2014/02/a-gentle-introduction-to-git.html)
 
 #### For advanced users
-- R
-- Python
 - Unix
+	-[Text processing with **Awk**](https://likegeeks.com/awk-command/)
+	-[Text manipulation with **sed**](https://likegeeks.com/sed-linux/)
 - NGS data analysis
+	- [**RNAseq**: exploring RNA-seq counts with R](http://jvanheld.github.io/stats_avec_RStudio_EBA/practicals/03_exploring_rnaseq_counts/exploring_RNASeq_counts.html#)
+	- [**ChIPseq**, an introduction](https://www.youtube.com/watch?v=zwuUveGgmS0)
+- Reproducibility
+	- [A first introduction to the workflow manager, **Nextflow**](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/stevekm/nextflow-demos/docs/docs/Nextflow_presentation.pdf)
 
+
+### Cheatsheets
+- Bash: [cheatsheet 1](https://devhints.io/bash), [cheatsheet 2](https://coding4medicine.com/cheatsheets/linux.html)
+- [Unix](https://bioinformaticsworkbook.org/Appendix/Unix/UnixCheatSheet.html)
+- [Regexp](https://devhints.io/regexp)
+- Python: [cheatsheet 1](https://devhints.io/python), [cheatsheet 2](http://huttenhower.sph.harvard.edu/moodle/pluginfile.php/1409/mod_folder/content/0/PythonCheatSheet.pdf?forcedownload=1)
+- R: [base](http://github.com/rstudio/cheatsheets/raw/master/base-r.pdf), [data import](https://github.com/rstudio/cheatsheets/raw/master/data-import.pdf), [data transformation with dplyr](https://github.com/rstudio/cheatsheets/raw/master/data-transformation.pdf), [data visualization with ggplot2](https://github.com/rstudio/cheatsheets/raw/master/data-visualization-2.1.pdf), [rmarkdown](https://rstudio.com/wp-content/uploads/2015/02/rmarkdown-cheatsheet.pdf)
+- [GIT](https://coding4medicine.com/cheatsheets/git.html)
+- [NGS glossary](https://pwwang.gitbooks.io/bioinformatics-cheetsheet/)
 
 ### Ressources
 
