@@ -8,8 +8,8 @@ The bioinformatics platform of the Institut Curie provides here a list of free b
 
 ### Outline
 - Selected contents for 
-	- [Beginner level](#beginner)  
-	- [Advanced level](#advanced)  
+	- [Beginner level](#for-beginners)  
+	- [Advanced level](#for-advanced-users)  
 - [Ressources](#ressources)  
 - [Youtube channels](#youtube-channels)  
 - Misceallenous
