@@ -9,7 +9,6 @@ The bioinformatics platform of the Institut Curie provides here a list of free b
 ### Outline
 - Selected contents for 
 	- [Beginner level](#beginner)  
-	- [Intermediate level](#intermediate)  
 	- [Advanced level](#advanced)  
 [- Ressources](#ressources)  
 [- Youtube channels](#youtube-channels)  
@@ -24,21 +23,13 @@ The bioinformatics platform of the Institut Curie provides here a list of free b
 
 ### Selected contents
 
-#### Beginner
+#### For beginners
 - R
 - Python
 - Unix
 - NGS data analysis
 
-
-#### Intermediate
-- R
-- Python
-- Unix
-- NGS data analysis
-
-
-#### Advanced
+#### For advanced users
 - R
 - Python
 - Unix
@@ -46,47 +37,56 @@ The bioinformatics platform of the Institut Curie provides here a list of free b
 
 
 ### Ressources
+
+- [Ecole de bioinformatique AVIESAN-IFB-INSERM](https://www.france-bioinformatique.fr/en/elearning/school/archives_EBA?qt-view__ge_individuelle__block_1=0)
+	- R, Unix, NGS, data analysis
+- [Cancéropôle Ile-de-France](https://www.canceropole-idf.fr/gt-bioinfo/formation-en-ligne/)
+	- NGS, data analysis, Galaxy
 - [Awesome Bioinformatics](https://github.com/danielecook/Awesome-Bioinformatics)
-	- Keywords: R, Python, NGS, data analysis
+	- R, Python, NGS, data analysis
 - [Databio: bioinformatics skills resources](http://databio.org/skills/)
-	- Keywords: Git, Markdown, Unix, Python, R
+	- Git, Markdown, Unix, Python, R
 - [Harvard: learning bioinformatics at home](https://github.com/harvardinformatics/learning-bioinformatics-at-home)
-	- Keywords: Unix, Git, R, Python, NGS, data analysis
+	- Unix, Git, R, Python, NGS, data analysis
 - [Quinlan Applied Genomics Course](https://github.com/quinlan-lab/applied-computational-genomics)
-	- Keywords: Unix, Genomics, NGS, data analysis
+	- Unix, Genomics, NGS, data analysis
 - [PH525x series - Biomedical Data Science](http://genomicsclass.github.io/book/)
-	- Keywords: R, NGS, data analysis, statistics, machine learning, NGS
+	- R, NGS, data analysis, statistics, machine learning, NGS
 - [Rockfeller University bioinformatics trainings](https://rockefelleruniversity.github.io/)
-	- Keywords: R, NGS, data analysis
+	- R, NGS, data analysis
 - [Avoiding data disasters](https://datachampcam.github.io/avoid-data-disaster/)
-	- Keywords: R, data management
+	- R, data management
+- [Nf-core Nextflow tutorials](https://nf-co.re/usage/nextflow)
+	- Nextflow
+
 
 
 ### Youtube channels
 - [Bioinformatics.ca](https://www.youtube.com/channel/UCKbkfKk65PZyRCzUwXOJung/playlists)
-	- Keywords: R, data analysis
+	- R, data analysis
 - [StatQuest](https://www.youtube.com/user/joshstarmer/playlists)
-	- Keywords: R, statistics, machine learning
+	- R, statistics, machine learning
 - [Global Health with Greg Martin](https://www.youtube.com/watch?v=ANMuuq502rE&list=PLujS9ooBebKVqwKXDqdqMqkwb1EKl4FM6)
-	- Keywords: R, statistics
+	- R, statistics
 - [R programming 101](https://www.youtube.com/channel/UCfJyQ3P2k_SuqfxVdqIEQNw)
-	- Keywords: R
+	- R
 - [Simplilearn](https://www.youtube.com/user/Simplilearn/playlists)
-	- Keywords: R, machine learning, python
+	- R, machine learning, python
 - [MarinStatsLectures](https://www.youtube.com/user/marinstatlectures/playlists)
-	- Keywords: R, statistics
+	- R, statistics
 - [Data Science Dojo](https://www.youtube.com/user/DataScienceDojo/playlists)
-	- Keywords: R, python
+	- R, python
 - [DataCamp](https://www.youtube.com/channel/UC79Gv3mYp6zKiSwYemEik9A/playlists)
-	- Keywords: R, python
+	- R, python
 - [Applied Biological Materials](https://www.youtube.com/playlist?list=PLTt9kKfqE_0Gem8hIcJEn7YcesuuKdt_n)
-	- Keywords: NGS, data analysis
+	- NGS, data analysis
 
 
 ### Miscellaneous
 
 #### Blogs
 - [RNAseq-blog](https://www.rna-seqblog.com/)
+- [Bioinfo-fr](https://bioinfo-fr.net/)
 
 #### Apps
 
@@ -104,3 +104,4 @@ Have fun learning!
 
 #### Random
 - [La statistique expliquée à mon chat](https://www.youtube.com/channel/UCWty1tzwZW_ZNSp5GVGteaA/videos)
+- [CommitStrip](http://www.commitstrip.com/fr/?)
