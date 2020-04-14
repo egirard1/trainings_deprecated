@@ -13,6 +13,7 @@ The bioinformatics platform of the Institut Curie provides here a list of free b
 	- [Beginners](#for-beginners)  
 	- [Advanced users](#for-advanced-users)  
 - [Ressources](#ressources)  
+- [MOOC](#massive-open-online-course---mooc)
 - [Cheatsheets](#cheatsheets)  
 - [Youtube channels](#youtube-channels)  
 - Misceallenous
