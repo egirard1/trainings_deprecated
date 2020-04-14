@@ -58,15 +58,20 @@ The bioinformatics platform of the Institut Curie provides here a list of free b
 - [NGS glossary](https://pwwang.gitbooks.io/bioinformatics-cheetsheet/)
 
 ### Ressources
-
+- [Swirl](https://swirlstats.com/students.html)
+	- R, statistics, data analysis, interactive
 - [Ecole de bioinformatique AVIESAN-IFB-INSERM](https://www.france-bioinformatique.fr/en/elearning/school/archives_EBA?qt-view__ge_individuelle__block_1=0)
 	- R, Unix, NGS, data analysis
 - [Cancéropôle Ile-de-France](https://www.canceropole-idf.fr/gt-bioinfo/formation-en-ligne/)
 	- NGS, data analysis, Galaxy
+- [RStudio Primers](https://rstudio.cloud/learn/primers)
+	- R
 - [Awesome Bioinformatics](https://github.com/danielecook/Awesome-Bioinformatics)
 	- R, Python, NGS, data analysis
 - [Databio: bioinformatics skills resources](http://databio.org/skills/)
 	- Git, Markdown, Unix, Python, R
+- [RStudio Education](https://education.rstudio.com/learn/)
+	- R
 - [Harvard: learning bioinformatics at home](https://github.com/harvardinformatics/learning-bioinformatics-at-home)
 	- Unix, Git, R, Python, NGS, data analysis
 - [Quinlan Applied Genomics Course](https://github.com/quinlan-lab/applied-computational-genomics)
@@ -75,11 +80,22 @@ The bioinformatics platform of the Institut Curie provides here a list of free b
 	- R, NGS, data analysis, statistics, machine learning, NGS
 - [Rockfeller University bioinformatics trainings](https://rockefelleruniversity.github.io/)
 	- R, NGS, data analysis
+- [R for Data Science](https://r4ds.had.co.nz/)
+	- R
 - [Avoiding data disasters](https://datachampcam.github.io/avoid-data-disaster/)
 	- R, data management
 - [Nf-core Nextflow tutorials](https://nf-co.re/usage/nextflow)
 	- Nextflow
 
+
+### Massive Open Online Course - MOOC
+- [Fun-mooc, France Université Numérique](https://www.fun-mooc.fr/)
+	- Registration needed, free
+- [Datacamp](https://www.datacamp.com/)
+	- Registration needed, first chapter of all courses are free
+- [Coursera](https://www.coursera.org/)
+	- Registration needed, audits are free
+	- [List of available bioinformatics courses](https://github.com/asntech/comp-bio-moocs)
 
 
 ### Youtube channels
