@@ -4,7 +4,7 @@ List of online bioinformatics trainings
 
 ### Note 
 
-The bioinformatics platform of the Institut Curie provides here a list of free bioinformatics trainings available online, for beginners to advanced users. The content of these training materials was not created by the platform itself and remains the property of their owner. You can contact them directly if you have questions or contact us at bioinfo.formation@curie.fr.
+The bioinformatics platform of the Institut Curie provides here a list of free bioinformatics trainings available online, from beginners to advanced users. <!-- At the exception of the links pointing to gitlab.curie.fr,  -->The content of these training materials was not created by the platform itself and remains the property of their owner. You can contact them directly if you have questions or contact us at bioinfo.formation@curie.fr.
 
 ---
 
@@ -12,6 +12,7 @@ The bioinformatics platform of the Institut Curie provides here a list of free b
 - Selected contents for 
 	- [Beginners](#for-beginners)  
 	- [Advanced users](#for-advanced-users)  
+<!-- - [Internal trainings](#internal-trainings) -->
 - [Ressources](#ressources)  
 - [MOOC](#massive-open-online-course---mooc)
 - [Cheatsheets](#cheatsheets)  
@@ -47,6 +48,13 @@ The bioinformatics platform of the Institut Curie provides here a list of free b
 	- [**ChIPseq**, an introduction](https://www.youtube.com/watch?v=zwuUveGgmS0)
 - Reproducibility
 	- [A first introduction to the workflow manager, **Nextflow**](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/stevekm/nextflow-demos/docs/docs/Nextflow_presentation.pdf)
+
+<!-- 
+### Internal trainings
+- [R visualization with ggplot2](https://gitlab.curie.fr/data-analysis/Formations_Internes/blob/master/ggplot2/ggplot2_tutorial.md)
+- [Bash tutorial](https://gitlab.curie.fr/data-analysis/Formations_Internes/blob/master/Introduction_to_command_line_Bash/bash_tutorial.md)
+- [Tidyverse](https://gitlab.curie.fr/data-analysis/Formations_Internes/blob/master/tidyverse/tidyverse.md)
+ -->
 
 
 ### Cheatsheets
