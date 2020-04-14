@@ -95,6 +95,8 @@ The bioinformatics platform of the Institut Curie provides here a list of free b
 	- R, data management
 - [Nf-core Nextflow tutorials](https://nf-co.re/usage/nextflow)
 	- Nextflow
+- [EMBL-EBI webinars](https://www.ebi.ac.uk/training/webinars?ebi-type=webinar)
+	- Proteomics, Genomics
 
 
 ### Massive Open Online Course - MOOC
