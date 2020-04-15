@@ -97,6 +97,10 @@ The bioinformatics platform of the Institut Curie provides here a list of free b
 	- Nextflow
 - [EMBL-EBI webinars](https://www.ebi.ac.uk/training/webinars?ebi-type=webinar)
 	- Proteomics, Genomics
+- [Rosalind](http://rosalind.info/problems/locations/)
+	- algorithms, python, data analysis
+- [Ivy League Courses freeCodeCamp list](https://www.freecodecamp.org/news/ivy-league-free-online-courses-a0d7ae675869/amp/?__twitter_impression=true)
+	- programming, data analysis
 
 
 ### Massive Open Online Course - MOOC
@@ -128,7 +132,8 @@ The bioinformatics platform of the Institut Curie provides here a list of free b
 	- R, python
 - [Applied Biological Materials](https://www.youtube.com/playlist?list=PLTt9kKfqE_0Gem8hIcJEn7YcesuuKdt_n)
 	- NGS, data analysis
-
+- [Python Programmer](https://www.youtube.com/user/consumerchampion/playlists)
+	- python, machine learning, data analysis
 
 ### Miscellaneous
 
